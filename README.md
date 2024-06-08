@@ -1,7 +1,7 @@
 ### Hi there, I am Shubham Chauhan👋
 
 # 💫 About Me:
-🔭 I’m currently working on sharpening my web development skills.<br>👯 I’m looking to collaborate on fullstack projects.<br>🤝 I’m looking for help with internship and job opportunities.<br>🌱 I’m currently doing my masters from The Maharaja Sayajirao University of Baroda.<br>💬 Ask me about Data structures, Algorithms, React and Redux.<br>📫 How to reach me cshubham1911@gmail.com
+🔭 I’m currently working on sharpening my web development skills.<br>👯 I’m looking to collaborate on fullstack projects.<br>🤝 I’m looking for help with internship and job opportunities.<br>🌱 I’m currently doing my masters from The Maharaja Sayajirao University of Baroda.<br>💬 Ask me about Data structures, C++, Qt, Bash Scripting, Flutter.<br>📫 How to reach me cshubham1911@gmail.com
 
 
 ## 🌐 Socials:
